@@ -1,0 +1,57 @@
+
+.nav-home{
+    padding-left: 80px;
+}
+.nav-btn{
+padding-left: 248px;
+}
+.nav-name{
+    padding-left: 1px;
+    font-weight: 700;
+}
+
+.register-btn{
+border: 1px solid blue;
+}
+
+.text-header{
+  padding-top: 200px;
+  margin-left: 40px;
+}
+.box-online{
+    display: flex;
+}
+
+.course-btn{
+text-align: center;
+}
+
+
+/* Ready to join */
+
+.Ready-to-join{
+    border-radius: 5px;
+}
+
+.btn-box{
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.stare-icon{
+    justify-content: space-between;
+}
+
+/* Trusted by over 800+ companies */
+
+.header-txt{
+    text-align: center;
+}
+
+/* footer */
+.footer-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
